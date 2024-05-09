@@ -1,0 +1,287 @@
+[
+  {
+    "EMP ID": "C010",
+    "NAME": "Venkatesth Ambem",
+    "Account": "Sonesta",
+    "Project": "AccelQ",
+    "Role": "QA",
+    "Designation": "Consultant"
+  },
+  {
+    "EMP ID": 2064,
+    "NAME": "Ushasri Tokati",
+    "Account": "Sonesta",
+    "Supporting Account": "GS1",
+    "Project": "AccelQ",
+    "Role": "QA",
+    "Designation": "Senior Software Test Engineer"
+  },
+  {
+    "EMP ID": 5541,
+    "NAME": "Praveen Peesaramilli",
+    "Account": "Sonesta",
+    "Project": "CRM",
+    "Role": "Dev",
+    "Designation": "Consultant"
+  },
+  {
+    "EMP ID": 2940,
+    "NAME": "Raju  Bellamkonda",
+    "Account": "Sonesta",
+    "Project": "Devops",
+    "Role": "Dev",
+    "Designation": "Senior Technical Associate"
+  },
+  {
+    "EMP ID": 5624,
+    "NAME": "Amrutha Veedi",
+    "Account": "Sonesta",
+    "Project": "Devops",
+    "Role": "Dev",
+    "Designation": "Technical Lead"
+  },
+  {
+    "EMP ID": 5589,
+    "NAME": "Devesh Shobari",
+    "Account": "Sonesta",
+    "Project": "DIP",
+    "Role": "Dev",
+    "Designation": "Consultant"
+  },
+  {
+    "EMP ID": 1872,
+    "NAME": "Thirupathi  Katkoori",
+    "Account": "Sonesta",
+    "Project": "DIP",
+    "Role": "Dev",
+    "Designation": "Technical Lead"
+  },
+  {
+    "EMP ID": 3114,
+    "NAME": "Ankita Nandkishor Bhatt",
+    "Account": "Sonesta",
+    "Project": "DIP",
+    "Role": "QA",
+    "Designation": "Senior Software Test Engineer"
+  },
+  {
+    "EMP ID": 2713,
+    "NAME": "Sai Shanthan  Vanama",
+    "Account": "Sonesta",
+    "Supporting Account": "KTEA",
+    "Project": "GAPI",
+    "Role": "Dev",
+    "Designation": "Associate Architect"
+  },
+  {
+    "EMP ID": 4579,
+    "NAME": "Munugala, Mounika",
+    "Account": "Sonesta",
+    "Project": "GAPI",
+    "Role": "Dev",
+    "Designation": "Senior Technical Associate"
+  },
+  {
+    "EMP ID": 2162,
+    "NAME": "Sathish Adepu",
+    "Account": "Sonesta",
+    "Project": "GAPI",
+    "Role": "Dev",
+    "Designation": "Technical Lead"
+  },
+  {
+    "EMP ID": 5831,
+    "NAME": "Trilok Chowdary M",
+    "Account": "Sonesta",
+    "Project": "GAPI",
+    "Role": "Dev",
+    "Designation": "Technical Lead"
+  },
+  {
+    "EMP ID": 2379,
+    "NAME": "Sai Meghana Gonugunta",
+    "Account": "Sonesta",
+    "Project": "GAPI",
+    "Role": "QA",
+    "Designation": "Software Test Engineer"
+  },
+  {
+    "EMP ID": 3701,
+    "NAME": "Saishruthi Kalavakuntla",
+    "Account": "Sonesta",
+    "Project": "SMC, WMP",
+    "Role": "QA",
+    "Designation": "Software Test Engineer"
+  },
+  {
+    "EMP ID": 1488,
+    "NAME": "Swetha  Chittari Veerabhadra",
+    "Account": "Sonesta",
+    "Project": "GAPI, AccelQ",
+    "Role": "QA",
+    "Designation": "Test Lead"
+  },
+  {
+    "EMP ID": 4570,
+    "NAME": "Vummaji, Vanitha ",
+    "Account": "Sonesta",
+    "Project": "WMP",
+    "Role": "QA",
+    "Designation": "Senior Technical Associate"
+  },
+  {
+    "EMP ID": 1626,
+    "NAME": "Sahul Kumar  Gone",
+    "Account": "Sonesta",
+    "Project": "Mobile",
+    "Role": "Dev",
+    "Designation": "Specialist - Software Developer"
+  },
+  {
+    "EMP ID": 2399,
+    "NAME": "Issac Nedunuri",
+    "Account": "Sonesta",
+    "Project": "Mobile",
+    "Role": "QA",
+    "Designation": "Senior Software Test Engineer"
+  },
+  {
+    "EMP ID": 2337,
+    "NAME": "Abdul Majeed S",
+    "Account": "Sonesta",
+    "Project": "MS365",
+    "Role": "BA",
+    "Designation": "Lead Business Analyst"
+  },
+  {
+    "EMP ID": 2771,
+    "NAME": "Jagadeesh  Sappa",
+    "Account": "Sonesta",
+    "Project": "MS365",
+    "Role": "Dev",
+    "Designation": "Senior Technical Associate"
+  },
+  {
+    "EMP ID": 2810,
+    "NAME": "Veera Raghavendra Venkata Naga Balaji Gandi",
+    "Account": "Sonesta",
+    "Supporting Account": "KTEA",
+    "Project": "MS365",
+    "Role": "Dev",
+    "Designation": "Technical Lead"
+  },
+  {
+    "EMP ID": 2156,
+    "NAME": "Vital Kumar Nagavarapu",
+    "Account": "Sonesta",
+    "Supporting Account": "NRL",
+    "Project": "OTA",
+    "Role": "Dev",
+    "Designation": "Senior Technical Associate"
+  },
+  {
+    "EMP ID": 2492,
+    "NAME": "Sai Thulasi  Valeti",
+    "Account": "Sonesta",
+    "Project": "PublicWeb",
+    "Role": "Dev",
+    "Designation": "Senior Technical Associate"
+  },
+  {
+    "EMP ID": 2929,
+    "NAME": "Madhavi Maithani",
+    "Account": "Sonesta",
+    "Supporting Account": "Taiko",
+    "Project": "WMP",
+    "Role": "Dev",
+    "Designation": "Senior Technical Associate"
+  },
+  {
+    "EMP ID": 2805,
+    "NAME": "Vinodkumar  Bhale",
+    "Account": "Sonesta",
+    "Project": "WMP",
+    "Role": "Dev",
+    "Designation": "Technical Associate"
+  },
+  {
+    "EMP ID": 3029,
+    "NAME": "Poorna Chary N",
+    "Account": "Sonesta",
+    "Project": "WMP",
+    "Role": "Dev",
+    "Designation": "Technical Associate"
+  },
+  {
+    "EMP ID": 2016,
+    "NAME": "Jay Prakash Rajbhar",
+    "Account": "Sonesta",
+    "Project": "PublicWeb, WMP, TPR",
+    "Role": "Dev",
+    "Designation": "Technical Lead"
+  },
+  {
+    "EMP ID": 2351,
+    "NAME": "Bharath Bheemireddy",
+    "Account": "Sonesta",
+    "Project": "WMP, Business Pass, Public",
+    "Role": "Dev",
+    "Designation": "Technical Lead"
+  },
+  {
+    "EMP ID": 2900,
+    "NAME": "Prince  KR",
+    "Account": "Sonesta",
+    "Project": "PublicWeb, WMP",
+    "Role": "Dev",
+    "Designation": "Technical Lead"
+  },
+  {
+    "EMP ID": 1658,
+    "NAME": "Sakshi  Kaushik",
+    "Account": "Sonesta",
+    "Project": "PublicWeb, WMP",
+    "Role": "QA",
+    "Designation": "Lead - Quality Analyst"
+  },
+  {
+    "EMP ID": 2433,
+    "NAME": "Sai Krishna Thota",
+    "Account": "Sonesta",
+    "Project": "PublicWeb",
+    "Role": "QA",
+    "Designation": "Senior Software Test Engineer"
+  },
+  {
+    "EMP ID": 2583,
+    "NAME": "Ravi Kiran Koradi",
+    "Account": "Sonesta",
+    "Project": "WMP, Public Web",
+    "Role": "QA",
+    "Designation": "Senior Software Test Engineer"
+  },
+  {
+    "EMP ID": 2952,
+    "NAME": "Tathvam  Sandeep",
+    "Account": "Sonesta",
+    "Project": "PublicWeb",
+    "Role": "QA",
+    "Designation": "Senior Software Test Engineer"
+  },
+  {
+    "EMP ID": 5773,
+    "NAME": "Soma Ganesh Babu",
+    "Account": "Sonesta",
+    "Project": "PublicWeb",
+    "Role": "QA",
+    "Designation": "Software Test Engineer"
+  },
+  {
+    "EMP ID": 1895,
+    "NAME": "Ramya Allada",
+    "Account": "Sonesta",
+    "Project": "Drupal",
+    "Role": "Dev",
+    "Designation": "Technical Lead"
+  }
+]
